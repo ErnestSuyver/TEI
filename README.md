@@ -7,6 +7,7 @@ Table of contents
 
 * [Start](README.md)
 * [Introduction](Introduction.md)
+* [XML](xml.md)
 * [Root element TEI](Root_element_TEI.md)
 * [TEI header](TEI_header.md)
 * [Text](Text.md)
@@ -32,6 +33,7 @@ Table of contents
 * [Validation](Validation.md)
 * [Meaning](Meaning.md)
 * [Presentation](Presentation.md)
+* [Epidoc](seg-epidoc.md)
 * [Appendix on Supplements](Appendix_on_supplements.md)
 * [Appendix on Instructions](Appendix_on_instructions.md)
 
